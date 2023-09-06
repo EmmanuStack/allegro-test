@@ -24,4 +24,3 @@
     "@allegro/opbox-runtime": "19.9.1",
     "@allegro/stylelint-config-opbox": "3.0.1",
     "@allegro/opbox-web-browser": "*",
-
