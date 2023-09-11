@@ -1,3 +1,3 @@
 pl.allegro.tech.*
 pl.allegro.bigdata.*
-pl.allegro.machine.**
+pl.allegro.machine.**12
