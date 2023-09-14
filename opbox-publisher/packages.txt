@@ -1,3 +1,0 @@
-pl.allegro.tech.*
-pl.allegro.bigdata.*
-pl.allegro.machine.**tyq
