@@ -1,4 +1,2 @@
 pl.allegro.tech.*
 pl.allegro.bigdata.*
-
-
