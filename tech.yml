@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/allegro-test
-report_id: b536d27c430b52fea0cd3c3f750e7e09
+report_id: aece9422cf6b7eceb616603f16c6d397
 repo_type: Public
-timestamp: '2023-11-03T13:55:25+00:00'
+timestamp: '2023-11-05T17:20:16+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 21
+detected_tools_count: 19
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -85,18 +85,18 @@ tools:
   imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source:
   - opbox-plugin-preview/package.json
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source:
-  - opbox-plugin-preview/package.json
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   imageURL: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source:
+  - opbox-plugin-preview/package.json
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  imageURL: https://img.stackshare.io/service/10577/11071.jpeg
   detection_source:
   - opbox-plugin-preview/package.json
 - name: "@testing-library/jest-dom"
@@ -135,19 +135,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
-- name: husky
-  description: Prevents bad commit or push
-  package_url: https://www.npmjs.com/husky
-  version: 8.0.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source:
   - opbox-plugin-preview/package.json
@@ -200,19 +187,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
-- name: lint-staged
-  description: Lint files staged by git
-  package_url: https://www.npmjs.com/lint-staged
-  version: 13.0.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source:
   - opbox-plugin-preview/package.json
