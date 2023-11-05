@@ -28,7 +28,7 @@ Full tech stack [here](/tech.md)
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/allegro-test](https://github.com/EmmanuStack/allegro-test)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|1<br/>Contributors|11/03/23 <br/>Report generated|09/26/23<br/>Last commit date|
+|19<br/>Tools used|1<br/>Contributors|11/05/23 <br/>Report generated|09/26/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -106,17 +106,17 @@ Full tech stack [here](/tech.md)
 ## Other (2)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/9527/5502029.jpeg' alt='husky'>
   <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <sub><a href="https://github.com/typicode/husky">husky</a></sub>
   <br>
   <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/9527/5502029.jpeg' alt='husky'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/10577/11071.jpeg' alt='lint-staged'>
   <br>
-  <sub><a href="https://github.com/typicode/husky">husky</a></sub>
+  <sub><a href="https://github.com/okonet/lint-staged">lint-staged</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -125,21 +125,19 @@ Full tech stack [here](/tech.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
 
 |NAME|VERSION|SOURCE FILE|License|Vulnerabilities|
 |------|------|------|------|------|
 |[@testing-library/jest-dom](https://github.com/testing-library/jest-dom)|v5.16.5|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v7.3.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[http-proxy](https://github.com/http-party/node-http-proxy)|v1.18.1|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[husky](https://github.com/typicode/husky)|v8.0.1|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[jest-css-modules](https://github.com/justinsisley/Jest-CSS-Modules)|v2.1.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|ISC|N/A|
 |[jest-environment-jsdom](https://github.com/facebook/jest)|v28.1.3|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock)|v3.0.3|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[jest-junit](https://github.com/jest-community/jest-junit)|v14.0.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|Apache-2.0|N/A|
-|[lint-staged](https://github.com/okonet/lint-staged)|v13.0.3|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[node-fetch](https://github.com/bitinn/node-fetch)|v3.2.10|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[svelte](https://github.com/sveltejs/svelte)|v3.49.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
 |[ts-jest](https://kulshekhar.github.io/ts-jest)|v28.0.8|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
