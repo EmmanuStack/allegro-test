@@ -129,18 +129,18 @@ Full tech stack [here](/tech.md)
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (10)
 
-|NAME|VERSION|SOURCE FILE|License|Vulnerabilities|
-|------|------|------|------|------|
-|[@testing-library/jest-dom](https://github.com/testing-library/jest-dom)|v5.16.5|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v7.3.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[http-proxy](https://github.com/http-party/node-http-proxy)|v1.18.1|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[jest-css-modules](https://github.com/justinsisley/Jest-CSS-Modules)|v2.1.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|ISC|N/A|
-|[jest-environment-jsdom](https://github.com/facebook/jest)|v28.1.3|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock)|v3.0.3|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[jest-junit](https://github.com/jest-community/jest-junit)|v14.0.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|Apache-2.0|N/A|
-|[node-fetch](https://github.com/bitinn/node-fetch)|v3.2.10|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[svelte](https://github.com/sveltejs/svelte)|v3.49.0|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
-|[ts-jest](https://kulshekhar.github.io/ts-jest)|v28.0.8|[opbox-plugin-preview/package.json](https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json)|MIT|N/A|
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[@testing-library/jest-dom](https://github.com/testing-library/jest-dom)|v5.16.5|N/A|N/A |MIT|N/A|
+|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v7.3.0|N/A|N/A |MIT|N/A|
+|[http-proxy](https://github.com/http-party/node-http-proxy)|v1.18.1|N/A|N/A |MIT|N/A|
+|[jest-css-modules](https://github.com/justinsisley/Jest-CSS-Modules)|v2.1.0|N/A|N/A |ISC|N/A|
+|[jest-environment-jsdom](https://github.com/facebook/jest)|v28.1.3|N/A|N/A |MIT|N/A|
+|[jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock)|v3.0.3|N/A|N/A |MIT|N/A|
+|[jest-junit](https://github.com/jest-community/jest-junit)|v14.0.0|N/A|N/A |Apache-2.0|N/A|
+|[node-fetch](https://github.com/bitinn/node-fetch)|v3.2.10|N/A|N/A |MIT|N/A|
+|[svelte](https://github.com/sveltejs/svelte)|v3.49.0|N/A|N/A |MIT|N/A|
+|[ts-jest](https://kulshekhar.github.io/ts-jest)|v28.0.8|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
