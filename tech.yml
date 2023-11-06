@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/allegro-test
-report_id: 7844900c588db40fb2a07076825ea98f
+report_id: 7f3cb4df4e8102f861d359bdeac60168
 repo_type: Public
-timestamp: '2023-11-06T16:11:47+00:00'
+timestamp: '2023-11-06T20:08:42+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -16,8 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
   website_url: https://kotlinlang.org/
@@ -26,8 +25,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   imageURL: https://img.stackshare.io/service/3750/pCfEzr6L.png
-  detection_source:
-  - Repo Metadata
+  detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -37,8 +35,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   imageURL: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -47,8 +44,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   imageURL: https://img.stackshare.io/service/1046/git.png
-  detection_source:
-  - Repo Metadata
+  detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
   website_url: http://facebook.github.io/jest/
@@ -60,8 +56,7 @@ tools:
   sub_category: Javascript Testing Framework
   imageURL: https://img.stackshare.io/service/830/jest.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
   website_url: https://prettier.io/
@@ -73,8 +68,7 @@ tools:
   sub_category: Code Review
   imageURL: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -83,22 +77,19 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   imageURL: https://img.stackshare.io/service/9527/5502029.jpeg
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: "@testing-library/jest-dom"
   description: Custom jest matchers to test the state of the DOM
   package_url: https://www.npmjs.com/@testing-library/jest-dom
@@ -110,8 +101,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -123,8 +113,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: http-proxy
   description: HTTP proxying for the masses
   package_url: https://www.npmjs.com/http-proxy
@@ -136,8 +125,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: jest-css-modules
   description: A Jest processor that prevents CSS module parse errors
   package_url: https://www.npmjs.com/jest-css-modules
@@ -149,8 +137,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: jest-environment-jsdom
   description: Delightful JavaScript Testing
   package_url: https://www.npmjs.com/jest-environment-jsdom
@@ -162,8 +149,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: jest-fetch-mock
   description: Fetch mock for jest
   package_url: https://www.npmjs.com/jest-fetch-mock
@@ -175,8 +161,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: jest-junit
   description: A jest reporter that generates junit xml files
   package_url: https://www.npmjs.com/jest-junit
@@ -188,8 +173,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: lint-staged
   description: Lint files staged by git
   package_url: https://www.npmjs.com/lint-staged
@@ -201,8 +185,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: node-fetch
   description: A light-weight module that brings window.fetch to node.js
   package_url: https://www.npmjs.com/node-fetch
@@ -214,8 +197,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: svelte
   description: Cybernetically enhanced web apps
   package_url: https://www.npmjs.com/svelte
@@ -227,8 +209,7 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
 - name: ts-jest
   description: A preprocessor with source maps support to help use TypeScript with
     Jest
@@ -241,5 +222,4 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: opbox-plugin-preview/package.json
-  detection_source:
-  - opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
