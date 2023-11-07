@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/allegro-test
-report_id: 5bcf21db350680c2833bce92a9f9f05e
+report_id: 88c29d7e7cb8384859e6476c2ca23456
 repo_type: Public
-timestamp: '2023-11-07T17:59:27+00:00'
+timestamp: '2023-11-07T18:12:35+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 21
+detected_tools_count: 20
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -124,18 +124,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source: opbox-plugin-preview/package.json
-- name: husky
-  description: Prevents bad commit or push
-  package_url: https://www.npmjs.com/husky
-  version: 8.0.1
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-css-modules
