@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/allegro-test
-report_id: cf136a047e1aa98f1218e8c2d4621b18
+report_id: 5bcf21db350680c2833bce92a9f9f05e
 repo_type: Public
-timestamp: '2023-11-07T16:17:13+00:00'
+timestamp: '2023-11-07T17:59:27+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -15,7 +15,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: opbox-plugin-preview/package.json
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -24,7 +24,7 @@ tools:
   hosted_saas: true
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -34,7 +34,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
-  imageURL: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source: opbox-plugin-preview/package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -43,7 +43,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -54,7 +54,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
-  imageURL: https://img.stackshare.io/service/830/jest.png
+  image_url: https://img.stackshare.io/service/830/jest.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: Prettier
@@ -66,7 +66,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Code Review
-  imageURL: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: npm
@@ -76,19 +76,19 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
-  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: opbox-plugin-preview/package.json
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: opbox-plugin-preview/package.json
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
-  imageURL: https://img.stackshare.io/service/9527/5502029.jpeg
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
   detection_source: opbox-plugin-preview/package.json
 - name: "@testing-library/jest-dom"
   description: Custom jest matchers to test the state of the DOM
@@ -99,7 +99,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: concurrently
@@ -111,7 +111,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: http-proxy
@@ -123,7 +123,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: husky
@@ -135,7 +135,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-css-modules
@@ -147,7 +147,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
+  image_url: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-environment-jsdom
@@ -159,7 +159,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-fetch-mock
@@ -171,7 +171,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: jest-junit
@@ -183,7 +183,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: lint-staged
@@ -195,7 +195,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: node-fetch
@@ -207,7 +207,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: svelte
@@ -219,7 +219,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  image_url: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: ts-jest
@@ -232,6 +232,6 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
