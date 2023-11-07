@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/allegro-test](https://github.com/EmmanuStack/allegro-test)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|09/26/23<br/>Last commit date|
+|20<br/>Tools used|1<br/>Contributors|11/07/23 <br/>Report generated|09/26/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -125,16 +125,15 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (11)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (11)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.16.5|N/A|N/A |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v7.3.0|N/A|N/A |MIT|N/A|
 |[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|N/A|N/A |MIT|N/A|
-|[husky](https://www.npmjs.com/husky)|v8.0.1|N/A|N/A |MIT|N/A|
 |[jest-css-modules](https://www.npmjs.com/jest-css-modules)|v2.1.0|N/A|N/A |ISC|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v28.1.3|N/A|N/A |MIT|N/A|
 |[jest-fetch-mock](https://www.npmjs.com/jest-fetch-mock)|v3.0.3|N/A|N/A |MIT|N/A|
