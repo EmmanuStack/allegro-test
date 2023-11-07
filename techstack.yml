@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/allegro-test
-report_id: 5c632806d18f53d06da276304d3b730e
+report_id: 9f01249f7f1fbfb1ea92827830fddb51
 repo_type: Public
-timestamp: '2023-11-07T20:13:51+00:00'
+timestamp: '2023-11-07T20:19:57+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 20
+detected_tools_count: 19
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -78,17 +78,17 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: opbox-plugin-preview/package.json
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source: opbox-plugin-preview/package.json
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source: opbox-plugin-preview/package.json
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
   detection_source: opbox-plugin-preview/package.json
 - name: "@testing-library/jest-dom"
   description: Custom jest matchers to test the state of the DOM
@@ -172,18 +172,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source: opbox-plugin-preview/package.json
-- name: lint-staged
-  description: Lint files staged by git
-  package_url: https://www.npmjs.com/lint-staged
-  version: 13.0.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
 - name: node-fetch
