@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/allegro-test
-report_id: ff4fe384881be198d9abca16ae3e8a60
+report_id: d0d55dadf6e8f50210cc35caddee82f8
 repo_type: Public
-timestamp: '2023-11-23T18:28:19+00:00'
+timestamp: '2023-11-24T05:57:05+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 19
+detected_tools_count: 18
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -28,6 +28,18 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: Svelte
+  description: A UI framework that compiles into tiny standalone JavaScript modules
+  website_url: https://svelte.technology/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -76,14 +88,6 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: opbox-plugin-preview/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -211,20 +215,6 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: opbox-plugin-preview/package.json
-  detection_source: opbox-plugin-preview/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: svelte
-  description: Cybernetically enhanced web apps
-  package_url: https://www.npmjs.com/svelte
-  version: 3.49.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
