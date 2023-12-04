@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/allegro-test](https://github.com/EmmanuStack/allegro-test)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|11/30/23 <br/>Report generated|
+|19<br/>Tools used|12/04/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -133,16 +133,16 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.16.5|N/A|N/A |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v7.3.0|N/A|N/A |MIT|N/A|
-|[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|N/A|N/A |MIT|N/A|
-|[jest-css-modules](https://www.npmjs.com/jest-css-modules)|v2.1.0|N/A|N/A |ISC|N/A|
-|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v28.1.3|N/A|N/A |MIT|N/A|
-|[jest-fetch-mock](https://www.npmjs.com/jest-fetch-mock)|v3.0.3|N/A|N/A |MIT|N/A|
-|[jest-junit](https://www.npmjs.com/jest-junit)|v14.0.0|N/A|N/A |Apache-2.0|N/A|
-|[node-fetch](https://www.npmjs.com/node-fetch)|v3.2.10|N/A|N/A |MIT|N/A|
-|[svelte](https://www.npmjs.com/svelte)|v3.49.0|N/A|N/A |MIT|N/A|
-|[ts-jest](https://www.npmjs.com/ts-jest)|v28.0.8|N/A|N/A |MIT|N/A|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v5.16.5|09/06/23|emmanu-yahoo |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v7.3.0|09/06/23|emmanu-yahoo |MIT|N/A|
+|[http-proxy](https://www.npmjs.com/http-proxy)|v1.18.1|09/06/23|emmanu-yahoo |MIT|N/A|
+|[jest-css-modules](https://www.npmjs.com/jest-css-modules)|v2.1.0|09/06/23|emmanu-yahoo |ISC|N/A|
+|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v28.1.3|09/06/23|emmanu-yahoo |MIT|N/A|
+|[jest-fetch-mock](https://www.npmjs.com/jest-fetch-mock)|v3.0.3|09/06/23|emmanu-yahoo |MIT|N/A|
+|[jest-junit](https://www.npmjs.com/jest-junit)|v14.0.0|09/06/23|emmanu-yahoo |Apache-2.0|N/A|
+|[node-fetch](https://www.npmjs.com/node-fetch)|v3.2.10|09/06/23|emmanu-yahoo |MIT|N/A|
+|[svelte](https://www.npmjs.com/svelte)|v3.49.0|09/06/23|emmanu-yahoo |MIT|N/A|
+|[ts-jest](https://www.npmjs.com/ts-jest)|v28.0.8|09/06/23|emmanu-yahoo |MIT|N/A|
 
 <br/>
 <div align='center'>
