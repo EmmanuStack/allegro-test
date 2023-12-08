@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/allegro-test
-report_id: 3512fda75039354fad83594f374ed87c
+report_id: c086280352138accc928c492d2ab8e25
 repo_type: Public
-timestamp: '2023-12-07T17:13:29+00:00'
+timestamp: '2023-12-08T12:07:57+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
@@ -17,6 +17,8 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -27,6 +29,8 @@ tools:
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -48,6 +52,8 @@ tools:
   image_url: https://img.stackshare.io/service/830/jest.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
   website_url: https://prettier.io/
@@ -60,6 +66,8 @@ tools:
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -69,24 +77,32 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: lint-staged
   website_url: https://github.com/okonet/lint-staged
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: "@testing-library/jest-dom"
   description: Custom jest matchers to test the state of the DOM
   package_url: https://www.npmjs.com/@testing-library/jest-dom
@@ -99,6 +115,8 @@ tools:
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -111,6 +129,8 @@ tools:
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: http-proxy
   description: HTTP proxying for the masses
   package_url: https://www.npmjs.com/http-proxy
@@ -123,6 +143,8 @@ tools:
   image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: jest-css-modules
   description: A Jest processor that prevents CSS module parse errors
   package_url: https://www.npmjs.com/jest-css-modules
@@ -135,6 +157,8 @@ tools:
   image_url: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: jest-environment-jsdom
   description: Delightful JavaScript Testing
   package_url: https://www.npmjs.com/jest-environment-jsdom
@@ -147,6 +171,8 @@ tools:
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: jest-fetch-mock
   description: Fetch mock for jest
   package_url: https://www.npmjs.com/jest-fetch-mock
@@ -159,6 +185,8 @@ tools:
   image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: jest-junit
   description: A jest reporter that generates junit xml files
   package_url: https://www.npmjs.com/jest-junit
@@ -171,6 +199,8 @@ tools:
   image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: node-fetch
   description: A light-weight module that brings window.fetch to node.js
   package_url: https://www.npmjs.com/node-fetch
@@ -183,6 +213,8 @@ tools:
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: svelte
   description: Cybernetically enhanced web apps
   package_url: https://www.npmjs.com/svelte
@@ -195,6 +227,8 @@ tools:
   image_url: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: ts-jest
   description: A preprocessor with source maps support to help use TypeScript with
     Jest
@@ -208,3 +242,5 @@ tools:
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
   detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
