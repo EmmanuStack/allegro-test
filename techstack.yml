@@ -1,17 +1,17 @@
 repo_name: EmmanuStack/allegro-test
-report_id: 48836e9861a61a4596fdf5f851e2ac48
+report_id: 7a28b74ba5620af3696e9aa8db4df81c
 repo_type: Public
-timestamp: '2023-12-13T11:55:45+00:00'
+timestamp: '2023-12-13T12:37:55+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 20
+detected_tools_count: 21
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
     functions
   website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
@@ -23,7 +23,7 @@ tools:
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
   website_url: http://nodejs.org/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
@@ -31,33 +31,10 @@ tools:
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: Svelte
-  description: A UI framework that compiles into tiny standalone JavaScript modules
-  website_url: https://svelte.technology/
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Javascript UI Libraries
-  image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
-  detection_source: opbox-plugin-preview/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: pgvector
-  description: Open-source vector similarity search for Postgres
-  website_url: https://github.com/pgvector/pgvector/
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Database Tools
-  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
-  detection_source: opbox-plugin-preview/packages.txt
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -68,7 +45,7 @@ tools:
   website_url: http://facebook.github.io/jest/
   version: 28.1.3
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
@@ -82,7 +59,7 @@ tools:
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Code Review
@@ -102,15 +79,12 @@ tools:
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: LangChain
-  description: Build AI apps with LLMs through composability
-  website_url: https://github.com/hwchase17/langchain
-  open_source: true
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
   hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
-  detection_source: opbox-plugin-preview/packages.txt
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: husky
@@ -134,7 +108,7 @@ tools:
   package_url: https://www.npmjs.com/@testing-library/jest-dom
   version: 5.16.5
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -148,7 +122,7 @@ tools:
   package_url: https://www.npmjs.com/concurrently
   version: 7.3.0
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -162,11 +136,25 @@ tools:
   package_url: https://www.npmjs.com/http-proxy
   version: 1.18.1
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.1
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
@@ -176,7 +164,7 @@ tools:
   package_url: https://www.npmjs.com/jest-css-modules
   version: 2.1.0
   license: ISC
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -190,7 +178,7 @@ tools:
   package_url: https://www.npmjs.com/jest-environment-jsdom
   version: 28.1.3
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -204,7 +192,7 @@ tools:
   package_url: https://www.npmjs.com/jest-fetch-mock
   version: 3.0.3
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
@@ -218,11 +206,25 @@ tools:
   package_url: https://www.npmjs.com/jest-junit
   version: 14.0.0
   license: Apache-2.0
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.0.3
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
@@ -232,11 +234,25 @@ tools:
   package_url: https://www.npmjs.com/node-fetch
   version: 3.2.10
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: svelte
+  description: Cybernetically enhanced web apps
+  package_url: https://www.npmjs.com/svelte
+  version: 3.49.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
   detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
@@ -247,7 +263,7 @@ tools:
   package_url: https://www.npmjs.com/ts-jest
   version: 28.0.8
   license: MIT
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Libraries
   sub_category: npm Packages
