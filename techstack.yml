@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/allegro-test
-report_id: c29d2fbc88b1dcc72dc8c6e210c63d35
+report_id: 48836e9861a61a4596fdf5f851e2ac48
 repo_type: Public
-timestamp: '2023-12-11T20:05:11+00:00'
+timestamp: '2023-12-13T11:55:45+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 19
+detected_tools_count: 20
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -31,6 +31,29 @@ tools:
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: Svelte
+  description: A UI framework that compiles into tiny standalone JavaScript modules
+  website_url: https://svelte.technology/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
+  detection_source: opbox-plugin-preview/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: opbox-plugin-preview/packages.txt
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -50,7 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -64,7 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -79,12 +102,15 @@ tools:
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
   hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source: opbox-plugin-preview/package.json
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: opbox-plugin-preview/packages.txt
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
 - name: husky
@@ -113,7 +139,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -127,7 +153,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -141,7 +167,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -155,7 +181,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18667/default_3ed0a361a097c631ee66d5aace42497748694521.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -169,7 +195,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -183,7 +209,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -197,7 +223,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -211,21 +237,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
-  detection_source: opbox-plugin-preview/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-06 20:30:38.000000000 Z
-- name: svelte
-  description: Cybernetically enhanced web apps
-  package_url: https://www.npmjs.com/svelte
-  version: 3.49.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/17192/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
@@ -240,7 +252,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
+  detection_source_url: https://github.com/EmmanuStack/allegro-test/blob/main/opbox-plugin-preview/package.json
   detection_source: opbox-plugin-preview/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-06 20:30:38.000000000 Z
